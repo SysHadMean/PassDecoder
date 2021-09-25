@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ## Usage
 
 ```bash
-python3 PassDecoder.py --image-file /path/to/qrCode.jpg
+python3 PassDecoder.py -i /path/to/qrCode.jpg
 ```
 
 ## Contributing

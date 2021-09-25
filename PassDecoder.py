@@ -25,7 +25,7 @@ def _setup_logger() -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description='EU COVID Vaccination Passport Decoder')
-    parser.add_argument('--image-file', metavar="IMAGE-FILE",
+    parser.add_argument('-i','--image-file', metavar="IMAGE-FILE",
                         help='Image to read QR-code from')
     args = parser.parse_args()
     _setup_logger()
