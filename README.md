@@ -1,6 +1,6 @@
 # PassDecoder
 
-PassDecoder is a simple pythos script used to decode raw information from a COVID-19 QR-Code
+PassDecoder is a simple python 3 script used to decode raw information from a COVID-19 QR-Code
 
 ## Installation
 
